@@ -1,4 +1,4 @@
-Identifying outlier periods based on customer ratings of restaurants - EDA project
+## Identifying outlier periods based on customer ratings of restaurants - EDA project
 In this exploratory data analysis (EDA) project, we analyze a substantial dataset of restaurant reviews sourced from the Yelp website. The initial phase involves conducting thorough data integrity checks to ensure the reliability of the dataset. Subsequently, we filter the data to include only restaurants with sufficient user review data for comprehensive analysis.
 
 The main focus of the project is the identification of outlier periods characterized by significant deviations in mean ratings compared to the preceding 6-month period. These outlier periods, around 3 weeks, are determined through the utilization of moving averages and standard deviation calculations for each business.
